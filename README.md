@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Sahan, a passionate Software Engineer 💻 dedicated to crafting innovative, impactful solutions 🚀. With a strong focus on full-stack development, I thrive on building dynamic, scalable applications that solve real-world problems 🌍. Whether working on frontend experiences 🎨 or backend systems 🛠️, I enjoy pushing the boundaries of technology to create seamless user experiences and efficient architectures. I’m constantly exploring the latest trends and tools 🔧📈 to stay ahead in the ever-evolving tech landscape. Let’s build something amazing together! 🌱✨,<br>
+Hi, I’m Sahan, a passionate Software Engineer 💻 dedicated to crafting innovative, impactful solutions 🚀. With a strong focus on full-stack development and a growing expertise in AI and Machine Learning 🤖📊, I thrive on building dynamic, intelligent applications that solve real-world problems 🌍. Whether working on frontend experiences 🎨, backend systems 🛠️, or smart data-driven features, I enjoy pushing the boundaries of technology to create seamless user experiences and efficient architectures. I’m constantly exploring the latest tools and trends 🔧📈 to stay ahead in the ever-evolving tech landscape. Let’s build something amazing together! 🌱✨
+<br>
 
 
 ## 🌐 Socials:
